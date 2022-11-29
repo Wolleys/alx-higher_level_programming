@@ -4,3 +4,6 @@
 
 # Main py files
 *main.py
+
+# Ignore all main files
+*-main.c
