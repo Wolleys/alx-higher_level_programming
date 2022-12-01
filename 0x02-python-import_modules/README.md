@@ -24,3 +24,16 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 # Tasks
 Projects table
+
+| Task Name  | File Name | Description |
+| --------------- | ------------------------------ |---------------------------------------------------------------|
+| 0. Import a simple function from a simple file  | `0-add.py` |  Import the function `def add(a, b)` |
+| 1. My first toolbox! | `1-calculation.py` | Import functions from the file `calculator_1.py` |
+| 2. How to make a script dynamic! | `2-args.py` | Print the number of and the list of its arguments |
+| 3. Infinite addition | `3-infinite_add.py` | Print the result of the addition of all arguments |
+| 4. Who are you? | `4-hidden_discovery.py` | Print all the names defined by the compiled module `hidden_4.pyc` |
+| 5. Everything can be imported | `5-variable_load.py` | Import the variable a from the file `variable_load_5.py` |
+| 6. Build my own calculator! | `100-my_calculator.py` | Import all functions from the file `calculator_1.py` |
+| 7. Easy print | `101-easy_print.py` | Print `#pythoniscool`, followed by a new line |
+| 8. ByteCode -> Python #3 | `102-magic_calculation.py` | The python function `def magic_calculation(a, b)` |
+| 9. Fast alphabet | `103-fast_alphabet.py` | Print the alphabet in uppercase, followed by a new line |
