@@ -1,6 +1,12 @@
 # Import & modules
-At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), 
-**without the help of Google:**
+
+# Resources
+1. [Modules](https://docs.python.org/3/tutorial/modules.html)
+2. [Command line arguments](https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments)
+3. [Pycodestyle – Style Guide for Python Code](https://pypi.org/project/pycodestyle/)
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), **without the help of Google:**
 
 ## General
 * Why Python programming is awesome
@@ -23,7 +29,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * The length of your files will be tested using `wc`
 
 # Tasks
-Projects table
+Tasks table
 
 | Task Name  | File Name | Description |
 | --------------- | ------------------------------ |---------------------------------------------------------------|
