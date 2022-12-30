@@ -1,6 +1,16 @@
 # Hello, World
-At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), 
-**without the help of Google:**
+
+# Resources
+1. [The Python tutorial](https://docs.python.org/3/tutorial/index.html) (only the first three chapters below)
+2. [Whetting Your Appetite](https://docs.python.org/3/tutorial/appetite.html)
+3. [Using the Python Interpreter](https://docs.python.org/3/tutorial/interpreter.html)
+4. [An Informal Introduction to Python](https://docs.python.org/3/tutorial/introduction.html) (Read up until “3.1.2. Strings” included)
+5. [How To Use String Formatters in Python 3](https://realpython.com/python-f-strings/)
+6. [Learn to Program](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
+7. [Pycodestyle – Style Guide for Python Code](https://pypi.org/project/pycodestyle/)
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg), **without the help of Google:**
 
 ## General
 * Why Python programming is awesome
