@@ -1,11 +1,11 @@
 # Test-driven development
 
 # Resources
-* [doctest — Test interactive Python examples (until “26.2.3.7. Warnings” included)](https://docs.python.org/3.4/library/doctest.html)
-* [doctest – Testing through documentation](https://pymotw.com/3/doctest/)
-* [Unit Tests in Python](https://www.youtube.com/watch?v=1Lfv5tUGsn8)
-* [Unittest module](https://www.youtube.com/watch?v=6tNS--WetLI)
-* [Interactive and Non-interactive tests](https://mattermost.com/blog/testing-python-understanding-doctest-and-unittest/)
+1. [doctest — Test interactive Python examples (until “26.2.3.7. Warnings” included)](https://docs.python.org/3.4/library/doctest.html)
+2. [doctest – Testing through documentation](https://pymotw.com/3/doctest/)
+3. [Unit Tests in Python](https://www.youtube.com/watch?v=1Lfv5tUGsn8)
+4. [Unittest module](https://www.youtube.com/watch?v=6tNS--WetLI)
+5. [Interactive and Non-interactive tests](https://mattermost.com/blog/testing-python-understanding-doctest-and-unittest/)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/?fbclid=IwAR2K5_BGPVo0QjJXkOIIqNsqcXK4lTskPWJvA0asKQIGtCPWaQBdKmj1Ztg),
