@@ -30,3 +30,17 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 # Tasks
 Tasks table
+
+| Task Name  | File Name | Description |
+| --------------- | ------------------------------ |---------------------------------------------------------------|
+| 0. Safe list printing | `0-safe_print_list.py` | Print `x` elements of a list |
+| 1. Safe printing of an integers list | `1-safe_print_integer.py` | Update: Print an integer with `{:d}.format()` |
+| 2. Print and count integers | `2-safe_print_list_integers.py` | Print the first `x` elements of a list and only integers |
+| 3. Integers division with debug | `3-safe_print_division.py` | Update: Divide 2 integers and prints the result |
+| 4. Divide a list | `4-list_division.py` | Divide element by element 2 lists |
+| 5. Raise exception | `5-raise_exception.py` | Raise a type exception |
+| 6. Raise a message | `6-raise_exception_msg.py` | Raise a name exception with a message |
+| 7. Safe integer print with error message | `100-safe_print_integer_err.py` | Print an integer |
+| 8. Safe function | `101-safe_function.py` | Execute a function safely |
+| 9. ByteCode -> Python #4 | `102-magic_calculation.py` | A `def magic_calculation(a, b)` python function |
+| 10. CPython #2: PyFloatObject | `103-python.c` | Create three C functions that |
