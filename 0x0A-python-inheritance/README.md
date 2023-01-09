@@ -50,3 +50,20 @@ and `python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)'`)
 
 # Tasks
 Tasks table
+
+| Task Name  | File Name | Description |
+| --------------- | ------------------------------ |---------------------------------------------------------------|
+| 0. Lookup | `0-lookup.py` | Return the list of available attributes and methods of an object |
+| 1. My list | `1-my_list.py, tests/1-my_list.txt` | A class `MyList` that inherits from `list` |
+| 2. Exact same object | `2-is_same_class.py` | Return `True` if the object is exactly an instance of the specified class |
+| 3. Same class or inherit from | `3-is_kind_of_class.py` | Return `True` if the object is an instance |
+| 4. Only sub class of | `4-inherits_from.py` | Return `True` if the object is an instance of a class that inherited |
+| 5. Geometry module | `5-base_geometry.py` | An empty class `BaseGeometry` |
+| 6. Improve Geometry | `6-base_geometry.py` | A class `BaseGeometry` (based on `5-base_geometry.py`) |
+| 7. Integer validator | `7-base_geometry.py, tests/7-base_geometry.txt` | A class `BaseGeometry` (based on `6-base_geometry.py`) |
+| 8. Rectangle | `8-rectangle.py` | A class `Rectangle` that inherits from `BaseGeometry` (`7-base_geometry.py`) |
+| 9. Full rectangle | `9-rectangle.py` | A class `Rectangle` that inherits from `BaseGeometry` (`7-base_geometry.py`) |
+| 10. Square #1 | `10-square.py` | A class `Square` that inherits from `Rectangle` (`9-rectangle.py`) |
+| 11. Square #2 | `11-square.py` | A class `Square` that inherits from `Rectangle` (`9-rectangle.py`) |
+| 12. My integer | `100-my_int.py` | A class `MyInt` that inherits from `int` |
+| 13. Can I? | `101-add_attribute.py` | Add a new attribute to an object if it’s possible |
