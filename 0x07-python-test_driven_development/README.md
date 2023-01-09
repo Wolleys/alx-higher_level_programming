@@ -43,3 +43,30 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 # Tasks
 Tasks table
+
+| Task Name  | File Name | Description |
+| --------------- | ------------------------------ |---------------------------------------------------------------|
+| 0. Integers addition | `0-add_integer.py, tests/0-add_integer.txt` | Add 2 integers |
+| 1. Divide a matrix | `2-matrix_divided.py, tests/2-matrix_divided.txt` | Divide all elements of a matrix |
+| 2. Say my name | `3-say_my_name.py, tests/3-say_my_name.txt` | Print `My name is <first name> <last name>` |
+| 3. Print square | `4-print_square.py, tests/4-print_square.txt` | Print a square with the character `#` |
+| 4. Text indentation | `5-text_indentation.py, tests/5-text_indentation.txt` | Print a text with 2 new lines after each of these characters: `.`, `?` and `:` |
+| 5. Max integer - Unittest | `tests/6-max_integer_test.py` | unittests for the function `def max_integer(list=[]):` |
+| 6. Matrix multiplication | `100-matrix_mul.py, tests/100-matrix_mul.txt` | Multiply 2 matrices |
+| 7. Lazy matrix multiplication | `101-lazy_matrix_mul.py, tests/101-lazy_matrix_mul.txt` | Multiply 2 matrices by using the module [NumPy](https://numpy.org) |
+| 8. CPython #3: Python Strings | `102-python.c` | Print Python strings |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
