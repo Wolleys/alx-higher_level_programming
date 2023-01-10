@@ -51,3 +51,21 @@ and `python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)'`)
 
 # Tasks
 Tasks table
+
+| Task Name  | File Name | Description |
+| --------------- | ------------------------------ |---------------------------------------------------------------|
+| 0. Read file | `0-read_file.py` | Read a text file (`UTF8`) and prints it to stdout |
+| 1. Write to a file | `1-write_file.py` | Write a string to a text file (`UTF8`) |
+| 2. Append to a file | `2-append_write.py` | Append a string at the end of a text file (`UTF8`) |
+| 3. To JSON string | `3-to_json_string.py` | Return the JSON representation of an object (string) |
+| 4. From JSON string to Object | `4-from_json_string.py` | Return an object (Python data structure) represented by a JSON string |
+| 5. Save Object to a file | `5-save_to_json_file.py` | Write an Object to a text file, using a JSON representation |
+| 6. Create object from a JSON file | `6-load_from_json_file.py` | Create an Object from a `“JSON file”` |
+| 7. Load, add, save | `7-add_item.py` | Add all arguments to a Python list, and then save them to a file |
+| 8. Class to JSON | `8-class_to_json.py` | Return the dictionary description with simple data structure |
+| 9. Student to JSON | `9-student.py` | A class `Student` that defines a student by |
+| 10. Student to JSON with filter | `10-student.py` | A class `Student` that defines a student by: (based on `9-student.py`) |
+| 11. Student to disk and reload | `11-student.py` | A class `Student` that defines a student by: (based on `10-student.py`) |
+| 12. Pascal's Triangle | `12-pascal_triangle.py` | A function `def pascal_triangle(n)` |
+| 13. Search and update | `100-append_after.py` | Insert a line of text to a file, |
+| 14. Log parsing | `101-stats.py` | Read the `stdin` line by line and computes metrics |
