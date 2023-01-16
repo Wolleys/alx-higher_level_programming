@@ -2,6 +2,7 @@
 """ Module that contains class Square,
 inheritance of class Rectangle
 """
+
 from models.rectangle import Rectangle
 
 
