@@ -58,7 +58,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * All your tests should be executed by using this command: `python3 -m unittest discover tests`
 * You can also test file by file by using this command: `python3 -m unittest tests/test_models/test_base.py`
 
-# Tasks
+# Files
 ## Inside `models` folder:
 
 | File Name | Description |
