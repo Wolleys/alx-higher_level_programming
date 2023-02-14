@@ -104,3 +104,27 @@ $
 
 # Tasks
 Tasks table
+
+| Task Name  | File Name | Description |
+| --------------- | ------------------------------ |---------------------------------------------------------------|
+| 0. List databases | `0-list_databases.sql` | Add: List all databases of your MySQL server |
+| 1. Create a database | `1-create_database_if_missing.sql` | Create the database `hbtn_0c_0` in your MySQL server |
+| 2. Delete a database | `2-remove_database.sql` | Delete the database `hbtn_0c_0` in your MySQL server |
+| 3. List tables | `3-list_tables.sql` | List all the tables of a database in your MySQL server |
+| 4. First table | `4-first_table.sql` | Create a table called `first_table` |
+| 5. Full description | `5-full_table.sql` | Print the full description of the table `first_table` |
+| 6. List all in table | `6-list_values.sql` | List all rows of the table `first_table` from the database `hbtn_0c_0` |
+| 7. First add | `7-insert_value.sql` | Insert a new row in the table `first_table` |
+| 8. Count 89 | `8-count_89.sql` | Display the number of records with `id = 89` in the table `first_table` |
+| 9. Full creation | `9-full_creation.sql` | Create a table `second_table` and add multiples rows |
+| 10. List by best | `10-top_score.sql` | List all records of the table `second_table` |
+| 11. Select the best | `11-best_score.sql` | List all records with a `score >= 10` in the table `second_table` |
+| 12. Cheating is bad | `12-no_cheating.sql` | Update the score of Bob to `10` in the table `second_table` |
+| 13. Score too low | `13-change_class.sql` | Remove all records with a `score <= 5` in the table `second_table` |
+| 14. Average | `14-average.sql` | The score average of all records in the table `second_table` |
+| 15. Number by score | `15-groups.sql` | List the number of records with the same score in the table `second_table` |
+| 16. Say my name | `16-no_link.sql` | List all records of the table `second_table` |
+| 17. Go to UTF8 | `100-move_to_utf8.sql` | Convert `hbtn_0c_0` database to UTF8 (`utf8mb4`, collate `utf8mb4_unicode_ci`) |
+| 18. Temperatures #0 | `101-avg_temperatures.sql` | Display the average temperature by city ordered by temperature |
+| 19. Temperatures #1 | `102-top_city.sql` | Display the top 3 of cities temperature during |
+| 20. Temperatures #2 | `103-max_state.sql` | Display the max temperature of each state (ordered by State name) |
