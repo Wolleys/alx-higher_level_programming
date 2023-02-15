@@ -130,3 +130,27 @@ $
 
 # Tasks
 Tasks table
+
+| Task Name  | File Name | Description |
+| --------------- | ------------------------------ |---------------------------------------------------------------|
+| 0. My privileges! | `0-privileges.sql` | List all privileges of the MySQL users `user_0d_1` and `user_0d_2` |
+| 1. Root user | `1-create_user.sql` | Create the MySQL server user `user_0d_1` |
+| 2. Read user | `2-create_read_user.sql` | Create the database `hbtn_0d_2` and the user `user_0d_2` |
+| 3. Always a name | `3-force_name.sql` | Create the table `force_name` on your MySQL server |
+| 4. ID can't be null | `4-never_empty.sql` | Create the table `id_not_null` on your MySQL server |
+| 5. Unique ID | `5-unique_id.sql` | Create the table `unique_id` on your MySQL server |
+| 6. States table | `6-states.sql` | Create the database `hbtn_0d_usa` and the table `states` |
+| 7. Cities table | `7-cities.sql` | Create the database `hbtn_0d_usa` and the table `cities` |
+| 8. Cities of California | `8-cities_of_california_subquery.sql` | List all the cities of California |
+| 9. Cities by States | `9-cities_by_state_join.sql` | List all cities contained in the database `hbtn_0d_usa` |
+| 10. Genre ID by show | `10-genre_id_by_show.sql` | List all shows contained in `hbtn_0d_tvshows` |
+| 11. Genre ID for all shows | `11-genre_id_all_shows.sql` | List all shows contained in the database `hbtn_0d_tvshows` |
+| 12. No genre | `12-no_genre.sql` | List all shows contained in `hbtn_0d_tvshows` without a genre linked |
+| 13. Number of shows by genre | `13-count_shows_by_genre.sql` | List all genres from `hbtn_0d_tvshows` |
+| 14. My genres | `14-my_genres.sql` | List all genres of the show `Dexter` from `hbtn_0d_tvshows` db |
+| 15. Only Comedy | `15-comedy_only.sql` | List all Comedy shows in the database `hbtn_0d_tvshows` |
+| 16. List shows and genres | `16-shows_by_genre.sql` | List all shows, and all genres linked to that show |
+| 17. Not my genre | `100-not_my_genres.sql` | List all genres not linked to the show `Dexter` |
+| 18. No Comedy tonight! | `101-not_a_comedy.sql` | List all shows without the genre Comedy |
+| 19. Rotten tomatoes | `102-rating_shows.sql` | List all shows by their rating |
+| 20. Best genre | `103-rating_genres.sql` | List all genres by their rating |
