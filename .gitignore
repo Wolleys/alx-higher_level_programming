@@ -7,3 +7,4 @@
 
 # Ignore all main files
 *-main.c
+*-main.js
