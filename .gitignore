@@ -2,9 +2,10 @@
 *~
 *#
 
-# Main py files
-*main.py
-
 # Ignore all main files
 *-main.c
 *-main.js
+*main.py
+
+# Byte-compiled
+__pycache__/
